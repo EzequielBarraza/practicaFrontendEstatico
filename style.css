@@ -1,0 +1,10 @@
+.bordesolido {
+border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	align-content: center;
+}
+
+.naranja {
+	color: orange;
+}
